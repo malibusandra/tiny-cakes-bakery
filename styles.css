@@ -1,0 +1,45 @@
+
+.navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+      
+    }
+.collapse {
+  color: #fff;
+  background-color: #e5cc70;
+}
+
+a {
+    background-color: #e5cc70;
+}   
+
+.jumbotron {
+      margin-bottom: 0;
+      background-color: #e5cc70;
+    }
+
+.about {
+      font-family:'Roboto', sans-serif;
+      text-align: center;
+      background-color: #78ddf9;
+      padding: 100px;
+    }
+
+.container {
+      background: url("http://techbysandra.com/wp-content/uploads/2018/03/symphony.png");
+    }
+
+.panel-footer {
+      background-color: #e5cc70;
+    }
+.container-fluid {
+      background-color: #dea0f6;
+    }
+button {
+  background-color: #e5cc70;
+  color: #fff;
+}
+footer {
+      background-color: #dea0f6;
+      padding: 25px;
+    }
